@@ -266,6 +266,7 @@ public sealed class Blackjack : GameBase
             {
                 score += card;
             }
+	    
         }
 
         return score;
